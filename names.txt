@@ -14,3 +14,9 @@ Donkey
 Lion
 Dog
 Pig
+Cup
+Plate
+Spoon
+Knife
+Cutting knife
+
