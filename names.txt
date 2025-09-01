@@ -8,3 +8,9 @@ Onyx
 Happiness
 Bekee
 Chinasa
+Goat
+Cow
+Donkey
+Lion
+Dog
+Pig
